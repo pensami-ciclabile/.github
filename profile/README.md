@@ -12,15 +12,15 @@ This GitHub organization hosts projects that support safer, more transparent, an
 
 ## What We Do
 
-### 🌐 Website
-
-We publish analyses, ideas, and resources about cycling infrastructure and urban mobility:
-[https://pensamiciclabile.it](https://pensamiciclabile.it)
-
 ### 📸 Instagram
 
 We re-draw parts of Milan to imagine and propose a more bike-friendly city, in line with our broader mission. Instagram helps us stay connected with the community and share this vision with local citizens:
 [https://www.instagram.com/pensamiciclabile/](https://www.instagram.com/pensamiciclabile/)
+
+### 🌐 Website
+
+We publish analyses, ideas, and resources about cycling infrastructure and urban mobility:
+[https://pensamiciclabile.it](https://pensamiciclabile.it)
 
 ### 💻 Open Source
 
