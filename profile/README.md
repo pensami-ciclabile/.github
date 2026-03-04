@@ -1,8 +1,10 @@
 # 🚲 PensaMi Ciclabile
 
-Hello! 👋
+<p align="center">
+  <img src="random.png" alt="Re-draw of an intersection to be bike-friendly" width="700">
+</p>
 
-**PensaMi Ciclabile** is an independent initiative focused on improving urban cycling through digital tools, open data, and civic advocacy.
+Hello! 👋 **PensaMi Ciclabile** is an independent initiative focused on improving urban cycling through digital tools, open data, and civic advocacy.
 
 This GitHub organization hosts projects that support safer, more transparent, and data-driven bicycle infrastructure, starting from Milan, Italy.
 
