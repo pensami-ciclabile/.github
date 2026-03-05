@@ -19,12 +19,10 @@ We re-draw parts of Milan to imagine and propose a more bike-friendly city, in l
 
 ### 🌐 Website
 
-We publish analyses, ideas, and resources about cycling infrastructure and urban mobility:
+We publish post and resources about what we do:
 [https://pensamiciclabile.it](https://pensamiciclabile.it)
 
 ### 💻 Open Source
-
-We build and share tools that support cycling advocacy.
 
 **velotrack** is our main open source project for Milan, focused on collecting and visualizing trams data to push the municipality to implement traffic light priority:
 [https://github.com/pensami-ciclabile/velotrack](https://github.com/pensami-ciclabile/velotrack)
