@@ -26,7 +26,7 @@ We publish analyses, ideas, and resources about cycling infrastructure and urban
 
 We build and share tools that support cycling advocacy.
 
-**velotrack** is our main open source project for Milan, focused on collecting and visualizing cycling data:
+**velotrack** is our main open source project for Milan, focused on collecting and visualizing trams data to push the municipality to implement traffic light priority:
 [https://github.com/pensami-ciclabile/velotrack](https://github.com/pensami-ciclabile/velotrack)
 
 ---
